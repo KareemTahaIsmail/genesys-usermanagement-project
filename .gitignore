@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+user-management-ui/node_modules/
+user-management/.idea/
